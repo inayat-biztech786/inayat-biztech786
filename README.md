@@ -1,4 +1,11 @@
-## Hi there 👋
+ Outreachy Preparation - Non-Coding Track
+
+Hi, I am Inayatullah, a Commerce student from Kashmore, Sindh, Pakistan. 
+
+I am using this repository to prepare for the Outreachy internship, focusing on the following non-coding skills:
+* Technical Writing & Documentation
+* Data Analysis & Google Sheets / Excel
+* Project Management
 
 <!--
 **inayat-biztech786/inayat-biztech786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
